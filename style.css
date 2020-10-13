@@ -290,7 +290,7 @@ h2 + p {
   top: 79px;
   width: 0;
   height: 0;
-  z-index: -1;
+  z-index: 1;
   border-top: 20px solid #eaeaea;
   border-bottom: 20px solid transparent;
   border-left: 20px solid #eaeaea;
