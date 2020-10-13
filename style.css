@@ -241,7 +241,7 @@ h2 + p {
   -webkit-column-gap: 16px;
           column-gap: 16px;
 }
-
+/*
 @media only screen and (max-width: 600px) {
   .feature {
     background-color: blue;
@@ -253,7 +253,7 @@ h2 + p {
     background-color: red;
   }
 }
-
+*/
 .pre__letter {
   position: absolute;
   top: 32px;
